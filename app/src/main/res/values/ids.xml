@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnNext" type="id" />
+    <item name="editText" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView5" type="id" />
+    <item name="btnHome" type="id" />
+    <item name="btnCalculation" type="id" />
+    <item name="btnMyDevProfile" type="id" />
+    <item name="btnAbout" type="id" />
+    <item name="editText3" type="id" />
+    <item name="editText2" type="id" />
+    <item name="btnBack" type="id" />
+    <item name="btn" type="id" />
+    <item name="btnback2" type="id" />
+    <item name="textViewAboutMe" type="id" />
+    <item name="btnBack3" type="id" />
+    <item name="listView2" type="id" />
+    <item name="textView7" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="btnAboutMe" type="id" />
+    <item name="imageView" type="id" />
+</resources>
